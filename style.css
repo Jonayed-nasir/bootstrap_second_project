@@ -37,3 +37,11 @@ body {
     height: 40px;
     border-radius: 50%;
 }
+
+.h-30 {
+    height: 250px;
+}
+
+.h-35 {
+    height: 140px;
+}
